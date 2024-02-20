@@ -31,7 +31,5 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For inquiries or collaborations, please contact [Your Name] at [your@email.com].
+For any inquiries or issues, please contact Kamrul Islam Nayeem at kamrulnayeem019@gmail.com.
 
-## Website
-Visit our website [Your Website URL] to learn more about our agency and services.
